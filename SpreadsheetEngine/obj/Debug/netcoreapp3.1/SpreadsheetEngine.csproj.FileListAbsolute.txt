@@ -1,0 +1,10 @@
+C:\Users\dongt\source\repos\SpreadsheetEngine\bin\Debug\netcoreapp3.1\SpreadsheetEngine.deps.json
+C:\Users\dongt\source\repos\SpreadsheetEngine\bin\Debug\netcoreapp3.1\SpreadsheetEngine.dll
+C:\Users\dongt\source\repos\SpreadsheetEngine\bin\Debug\netcoreapp3.1\SpreadsheetEngine.pdb
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.csproj.AssemblyReference.cache
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.dll
+C:\Users\dongt\source\repos\SpreadsheetEngine\obj\Debug\netcoreapp3.1\SpreadsheetEngine.pdb

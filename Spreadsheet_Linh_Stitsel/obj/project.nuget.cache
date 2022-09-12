@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lI4HTJ0SciHqRhvTj9Tv3ZAznTaiCS1Ga1raMaCGG1xJAZTigrFdzky7qnE9MVMNXx+25+E7aa9IIk1jcNgv1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dongt\\source\\repos\\Spreadsheet_Linh_Stitsel\\Spreadsheet_Linh_Stitsel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dongt\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

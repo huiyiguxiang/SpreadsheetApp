@@ -1,0 +1,17 @@
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\ExpressionTreeMenu.exe
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\ExpressionTreeMenu.deps.json
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\ExpressionTreeMenu.runtimeconfig.json
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\ExpressionTreeMenu.runtimeconfig.dev.json
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\ExpressionTreeMenu.dll
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\ExpressionTreeMenu.pdb
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.csproj.AssemblyReference.cache
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.AssemblyInfoInputs.cache
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.AssemblyInfo.cs
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.csproj.CoreCompileInputs.cache
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.dll
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.pdb
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.genruntimeconfig.cache
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\SpreadsheetEngine.dll
+C:\Users\dongt\source\repos\ExpressionTreeMenu\bin\Debug\netcoreapp3.1\SpreadsheetEngine.pdb
+C:\Users\dongt\source\repos\ExpressionTreeMenu\obj\Debug\netcoreapp3.1\ExpressionTreeMenu.csproj.CopyComplete

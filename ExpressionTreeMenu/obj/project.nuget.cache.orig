@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4OZWdoL8whL2GQ/H27nj+SfQ8tnJzkm4dTQAjXFRDJkca51JCU71cMqS7z9bmkRsjZjvC0ic2S5cBQle/MUnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dongt\\source\\repos\\ExpressionTreeMenu\\ExpressionTreeMenu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dongt\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
